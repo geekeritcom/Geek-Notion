@@ -2,11 +2,11 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: 'Java-96afc72678314e498cb19fe210754144',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: 'Java-96afc72678314e498cb19fe210754144',
+  rootNotionSpaceId: '',
 
   // basic site info (required)
   name: 'Geek-Notion',
