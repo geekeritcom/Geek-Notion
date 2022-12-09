@@ -6,7 +6,7 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: Java-96afc72678314e498cb19fe210754144,
+  rootNotionSpaceId: 'Java-96afc72678314e498cb19fe210754144',
 
   // basic site info (required)
   name: 'Geek-Notion',
